@@ -42,7 +42,7 @@ pip install Pillow faker textwrap3
 ### Configuração
 Modifique as variáveis no início do arquivo main.py conforme necessário:
 
-input_xml_path: Caminho para o arquivo XML com os campos da DANFe.
+input_xml_path: Caminho para o arquivo XML com os campos da DANFe. (Já disponibilizo incluído um xml com tamanhos do modelo DANFe que estou utilizando.) 
 input_image_path: Caminho para a imagem modelo da DANFe.
 output_image_dir: Diretório onde as imagens geradas serão salvas.
 output_labels_dir: Diretório onde os rótulos gerados serão salvos.
