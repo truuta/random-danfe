@@ -19,7 +19,7 @@ Este projeto em Python gera imagens de DANFes (Documento Auxiliar da Nota Fiscal
 - Configurável para gerar múltiplas imagens de uma só vez.
 
 ## Estrutura do Projeto
-
+```
 .
 ├── danfe_model.png # Imagem modelo da DANFe
 ├── paths.xml # Arquivo XML com a definição dos campos
@@ -28,7 +28,7 @@ Este projeto em Python gera imagens de DANFes (Documento Auxiliar da Nota Fiscal
 ├── output_labels/ # Diretório de saída dos rótulos gerados
 ├── main.py # Código principal do projeto
 └── README.md # Este arquivo
-
+```
 
 ## Como Usar
 
