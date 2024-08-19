@@ -1,6 +1,6 @@
 # Gerador de DANFes com Dados Aleatórios
 
-Este projeto em Python gera imagens de DANFes (Documento Auxiliar da Nota Fiscal Eletrônica) preenchidas com dados aleatórios. Ele utiliza bibliotecas como `xml.etree.ElementTree`, `PIL`, e `Faker` para criar e personalizar imagens de DANFes com informações simuladas.
+Este projeto em Python 3.10 gera imagens de DANFes (Documento Auxiliar da Nota Fiscal Eletrônica) preenchidas com dados aleatórios. Ele utiliza bibliotecas como `xml.etree.ElementTree`, `PIL`, e `Faker` para criar e personalizar imagens de DANFes com informações simuladas.
 
 ## Bibliotecas Utilizadas
 
