@@ -2,13 +2,10 @@
 
 Este projeto em Python 3.10 gera imagens de DANFes (Documento Auxiliar da Nota Fiscal Eletrônica) preenchidas com dados aleatórios. Ele utiliza bibliotecas como `xml.etree.ElementTree`, `PIL`, e `Faker` para criar e personalizar imagens de DANFes com informações simuladas.
 
-## <span style="color: #DE3163;">Aviso Importante</span>
-
-<span style="color: #DE3163;">
+## Aviso Importante
 **Este projeto tem o objetivo exclusivo de ser utilizado em contextos de desenvolvimento tecnológico, como projetos de visão computacional e inteligência artificial, fornecendo dados fictícios para fins de teste e desenvolvimento. Não é destinado a qualquer uso ilegal ou para gerar documentos fiscais verdadeiros ou válidos.**
 
 **Eu, como desenvolvedor deste projeto, repudio qualquer uso criminoso ou indevido desta ferramenta. Este projeto foi criado com a intenção de apoiar outros desenvolvedores em suas jornadas tecnológicas, dentro dos limites da lei. O uso para finalidades ilícitas vai contra os princípios deste trabalho, e não apoio, nem me responsabilizo por tal uso.**
-</span>
 
 ## Bibliotecas Utilizadas
 
